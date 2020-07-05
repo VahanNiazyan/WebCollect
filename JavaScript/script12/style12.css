@@ -1,0 +1,23 @@
+.users >div,
+.posts >div,
+.comment >div{
+    border-bottom: 2px solid black;
+    padding: 20px;
+    cursor: pointer;
+}
+.users div:hover{
+    background: rgb(37,226,110);
+}
+.posts div:hover{
+    background-color: darksalmon;
+}
+.comment >div{
+    background-color: antiquewhite;
+}
+.comment div:hover{
+    background-color: darkgray;
+}
+
+.posts {
+    background-color: skyblue;
+}

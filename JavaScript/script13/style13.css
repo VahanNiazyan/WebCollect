@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.albums > div{
+    padding: 20px;
+    border-bottom: 2px solid green;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+.albums div:hover{
+    background-color: darksalmon;
+}
+
+.photos > div{
+    font-style: italic;
+    text-transform: capitalize;
+    color: darkslateblue;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+
+.photos > div .marg{
+  margin: 25px 0;  
+}
+.photos > div .title{
+  margin: 25px 0;  
+  padding-top: 25px;  
+}*/

@@ -1,0 +1,52 @@
+
+
+///tnain 84
+//for(let i = 1; i <= 100; i++){
+//     i = i++
+//    let a = 3.5                                             1
+//    a *= i
+//    let b = 70;
+//    b *= i
+//     console.log(i+'$'+' = '+b+'Rub'+' = '+a+' kg')
+//    }
+
+
+
+
+
+
+/////////tnain29
+//let str = "adaabfcbdbfbalbsbeb";
+//let x = [];
+//
+//for(let i = 0; i < str.length; i++){
+//    if(str[i]==="a"){
+//         x.push("A")
+//    }else if(str[i]==="b"){
+//        x.push("B")
+//    }
+//    else{
+//        x.push(str[i])
+//    }
+//}
+//console.log(x)
+//
+
+
+
+
+/////////////xndir 71
+//let h =12;
+//let m =59; 
+//
+//let a = 360/h;
+//let v = 360/60;
+//let b = 5*h
+//
+//let c = 2.30*a;
+//let d = 40*v;
+//let e = d - c;
+//
+//console.log('Scale = '+e)
+
+
